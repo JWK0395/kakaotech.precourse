@@ -1,2 +1,1 @@
 # kakaotech.precourse
-# kakaotech.precourse
